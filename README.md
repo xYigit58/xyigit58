@@ -17,35 +17,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,js,ts,nodejs,python,git,github,vscode" />
 </p>
-
----
-
-## 🚀 Main Project
-
-### 🏟️ HaxStudio
-
-A modern Windows stadium editor for HaxBall `.hbs` maps.
-
-**Features:**
-
-- Visual stadium editing  
-- Dark mode interface  
-- Object and layer management  
-- Vertex, segment, goal, disc, plane and joint editing  
-- Raw `.hbs` text editing  
-- Stadium validation system  
-- Large map performance optimizations  
-- Custom dark dialogs  
-- Discord Rich Presence support  
-
----
-
-## 📌 Development Areas
-
-```txt
-🎮 Game Development
-🏟️ HaxBall Tools
-🖥️ Windows Desktop Apps
-🤖 Discord Bots
-🧩 Map Editors
-⚙️ Automation Tools
